@@ -1,7 +1,8 @@
-<html>
-<body>
-	<h1>Hi, I'm akash</h1>
-	<p>Hello man I'm a matcho man.</p>
-
-</body>
-</html>
+body{
+margin:0px;
+padding:0px;
+}
+h1{
+color:black;
+backgroung:white;
+}
